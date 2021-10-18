@@ -1,5 +1,6 @@
 Implementing two perceptron model to perform classification on iris database from scratch. 
 
 (a) varying the learning rate and showing the best learning rate value when running it for 50 epochs.
+
 (b) varying the number of epochs from 10 to 100 in a step of 10 and showing the loss value curve (using the best learning r
 ate obtained from (a))
